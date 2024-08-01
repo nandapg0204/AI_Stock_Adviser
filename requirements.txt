@@ -1,0 +1,6 @@
+langchain==0.2.11
+langchain-community==0.2.10
+openai==0.28.0
+matplotlib==3.7.1
+Pillow==9.4.0
+duckduckgo_search==6.2.5
