@@ -3,6 +3,6 @@
 
 <p>  This repository contains code to build an AI stock advising chatbot, integrating LangChain and OpenAI for reliable financial insights.It excels in generating historical stock price plots, retrieving accurate financial data, and providing comprehensive insights</p>
 <h2>Motivation</h2>
-<p>  Getting a financial advice from general purpose chatbots like ChatGPT may not be reliable as it hasn't shown great performance with numbers and also can not capture real time data. But LLMs are great at processing text. Stock trading advising also need intrinsic details which must not wrong. Popular financial applications like Yahoo finance, Google stock news provides reliable real time stock related data</p>
+<p>  General purpose chatbots like ChatGPT may not offer reliable financial advice due to limitations in handling real-time data and numerical accuracy. Effective stock trading advice requires precise and up-to-date information.LLMs are great at processing text. Financial applications like Yahoo Finance and Google Stock News are known for their reliable real-time data.</p>
 
-<p> Our approch tries to build a application by integrating multiple tools for importing and scraping data then rendering them using text processing capabilites of LLMS.</p>
+<p> Our approch aims to build a solution that can combine reliable real time data from financial applications with great text processing capabilities of LLMS</p>
