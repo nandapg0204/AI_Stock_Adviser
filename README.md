@@ -38,4 +38,4 @@ A stock often advised against is GameStop (GME). It has high volatility, a trail
 
 
 <p><h3>Response :</h3>
-I couldn't find any information on NANDA stock. Please check the name or provide a different stock.</p>
+I couldn't find any information on Tokyo stock. Please check the name or provide a different stock.</p>
