@@ -45,38 +45,3 @@ A stock often advised against is GameStop (GME). It has high volatility, a trail
 
 <p><h3>Response :</h3>
 I couldn't find any information on Tokyo stock. Please check the name or provide a different stock.</p>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div style="max-width: 800px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif;">
-        <h1>Chatbot Sample Input & Output</h1>
-        <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin: 20px 0;">
-            <div style="margin-bottom: 10px;">
-                <p style="margin: 0; padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
-                    <strong>User:</strong> What is the weather like today?
-                </p>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <p style="margin: 0; padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
-                    <strong>Bot:</strong> The weather is sunny with a high of 75°F (24°C).
-                </p>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <p style="margin: 0; padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
-                    <strong>User:</strong> Can you set a reminder for my meeting at 3 PM?
-                </p>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <p style="margin: 0; padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
-                    <strong>Bot:</strong> Sure, I've set a reminder for your meeting at 3 PM.
-                </p>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
