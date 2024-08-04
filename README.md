@@ -8,9 +8,9 @@
 <p>  General purpose chatbots like ChatGPT may not offer reliable financial advice due to limitations in handling real-time data and numerical accuracy. Effective stock trading advice requires precise and up-to-date information. LLMs are great at processing text. Financial applications like Yahoo Finance and Google Stock News are known for their reliable real-time financial data.</p>
 
 <p>  Our approch aims to build a solution that can combine reliable real time data from financial applications with great text processing capabilities of LLMS</p>
-<h2>Input and Output </h2>
+<h2>Sample Input and Output </h2>
 <p><h3>User :</h3> How does apple stock looks like next 10 days </p>
-<p><strong>Response : </strong><br>
+<p><h3>Response :</h3> </strong><br>
 The predicted Apple stock prices for the next 10 days are as follows:<br>  
 - Day 1: $219.59<br>  
 - Day 2: $219.50<br>  
