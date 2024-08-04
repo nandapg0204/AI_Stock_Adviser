@@ -28,7 +28,7 @@ The stock price is predicted with  4.23% error.
 
 <p><h3>User :</h3> What is the current price of Google stock </p>
 <p><h3>Response :</h3>
-The current price of Apple stock (AAPL) is $219.86.</p>
+The current price of Google stock (GOOG) is $168.40.</p>
 
 
 <p><h3>User :</h3> Give me a stock name which i should not invest with an example and why(Show the details) </p>
