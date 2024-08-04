@@ -11,6 +11,9 @@
 <h2>Sample Input and Output </h2>
 <p><strong>User :</strong> Show me the historic stock price change of NVIDIA stock </p>
 <p><h3>Response :</h3>
+<p>The historic price of Nvidia is :</p>
+
+  ![Flower](https://github.com/nandapg0204/AI_Stock_Advising_ChatBot/blob/main/images/nvidia.png?raw=true)
   
 <p><strong>User :</strong> How does apple stock looks like for next 10 days </p>
 <p><h3>Response :</h3>
