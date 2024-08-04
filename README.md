@@ -24,3 +24,12 @@ The predicted Apple stock prices for the next 10 days are as follows:<br>
 - Day 10: $220.41<br>
 The stock price is predicted with  4.23% error.
 </p>
+<p><h3>User :</h3> What is the current price of Google stock </p>
+<p><h3>Response :</h3>
+The current price of Apple stock (AAPL) is $219.86.</p>
+<p><h3>User :</h3> Give me a stock name which i should not invest with an example and why(Show the details) </p>
+<p><h3>Response :</h3>
+A stock often advised against is GameStop (GME). It has high volatility, a trailing P/E ratio of 263.38, and significant debt, making it a risky investment.</p>
+<p><h3>User :</h3> Give me the basic details of the Tokyo stock </p>
+<p><h3>Response :</h3>
+I couldn't find any information on NANDA stock. Please check the name or provide a different stock.</p>
