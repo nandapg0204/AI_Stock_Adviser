@@ -9,7 +9,7 @@
 
 <p>  Our approch aims to build a solution that can combine reliable real time data from financial applications with great text processing capabilities of LLMS</p>
 <h2>Sample Input and Output </h2>
-<p><h3>User :</h3> How does apple stock looks like next 10 days </p>
+<p><h3>User :</h3></span> How does apple stock looks like next 10 days </p>
 <p><h3>Response :</h3>
 The predicted Apple stock prices for the next 10 days are as follows:<br>  
 - Day 1: $219.59<br>  
