@@ -49,71 +49,37 @@ I couldn't find any information on Tokyo stock. Please check the name or provide
 
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .chatbox {
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 10px;
-            margin: 20px 0;
-            background-color: #f9f9f9;
-        }
-        .user {
-            font-weight: bold;
-            color: #007bff;
-        }
-        .bot {
-            font-weight: bold;
-            color: #28a745;
-        }
-        .message {
-            margin-bottom: 10px;
-        }
-        .message p {
-            margin: 0;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        .user p {
-            background-color: #e7f0ff;
-        }
-        .bot p {
-            background-color: #d4edda;
-        }
-    </style>
 </head>
 <body>
-    <div class="container">
+    <div style="max-width: 800px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif; line-height: 1.6;">
         <h1>Chatbot Sample Input & Output</h1>
-        <div class="chatbox">
-            <div class="message user">
-                <p><strong>User:</strong> What is the weather like today?</p>
+        <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
+            <div style="margin-bottom: 10px;">
+                <p style="margin: 0; padding: 5px; border-radius: 5px; background-color: #e7f0ff; font-weight: bold; color: #007bff;">
+                    <strong>User:</strong> What is the weather like today?
+                </p>
             </div>
-            <div class="message bot">
-                <p><strong>Bot:</strong> The weather is sunny with a high of 75°F (24°C).</p>
+            <div style="margin-bottom: 10px;">
+                <p style="margin: 0; padding: 5px; border-radius: 5px; background-color: #d4edda; font-weight: bold; color: #28a745;">
+                    <strong>Bot:</strong> The weather is sunny with a high of 75°F (24°C).
+                </p>
             </div>
-            <div class="message user">
-                <p><strong>User:</strong> Can you set a reminder for my meeting at 3 PM?</p>
+            <div style="margin-bottom: 10px;">
+                <p style="margin: 0; padding: 5px; border-radius: 5px; background-color: #e7f0ff; font-weight: bold; color: #007bff;">
+                    <strong>User:</strong> Can you set a reminder for my meeting at 3 PM?
+                </p>
             </div>
-            <div class="message bot">
-                <p><strong>Bot:</strong> Sure, I've set a reminder for your meeting at 3 PM.</p>
+            <div style="margin-bottom: 10px;">
+                <p style="margin: 0; padding: 5px; border-radius: 5px; background-color: #d4edda; font-weight: bold; color: #28a745;">
+                    <strong>Bot:</strong> Sure, I've set a reminder for your meeting at 3 PM.
+                </p>
             </div>
         </div>
     </div>
 </body>
 </html>
-
